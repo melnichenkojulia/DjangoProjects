@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Julia
-=======
 MAster
->>>>>>> master
