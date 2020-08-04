@@ -1,4 +1,3 @@
 hello git
-I`m a Julia
-i`m master
+I`m a Julia and i`m master
 
